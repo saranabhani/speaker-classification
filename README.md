@@ -1,2 +1,0 @@
-# speaker-classification
-Speech Technology
